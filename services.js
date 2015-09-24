@@ -1,0 +1,4 @@
+//Define Service
+weatherApp.service('cityService', function() {
+	this.city = "New York, NY";
+});
